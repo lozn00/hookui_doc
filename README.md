@@ -2699,7 +2699,8 @@ public class RobotServiceUtil {
 
 ## 增加root版控制能力
 同样没时间没精力弄,只有在某些激情来的时候才会倒腾新增一两个功能
-
+# 源代码下载
+https://github.com/qssq/robot
 
 # 下载升级
 
