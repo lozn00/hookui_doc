@@ -46,7 +46,7 @@
 
 
 ## 图标内菜单界面功能展示
-
+![image.png](https://upload-images.jianshu.io/upload_images/2815884-64d6a94fa71924c9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![Screenshot_2023-02-25-22-07-05-462_lozn.hookui.jpg](https://upload-images.jianshu.io/upload_images/2815884-29895ea4fb76f901.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![Screenshot_2023-02-25-22-06-47-906_lozn.hookui.jpg](https://upload-images.jianshu.io/upload_images/2815884-bd780998ab36cb9f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![Screenshot_2023-02-25-22-06-41-740_lozn.hookui.jpg](https://upload-images.jianshu.io/upload_images/2815884-685075dfb7574103.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -54,6 +54,12 @@
 ![Screenshot_2023-02-25-22-06-37-039_lozn.hookui.jpg](https://upload-images.jianshu.io/upload_images/2815884-a24a257ae32fc1d1.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![Screenshot_2023-02-25-22-06-24-102_lozn.hookui.jpg](https://upload-images.jianshu.io/upload_images/2815884-f66a2495457d7f9f.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+参考视频
+下面视频需要科学上网,需要下载telegram
+https://t.me/loznChanel/33
+https://t.me/loznChanel/31
+https://t.me/loznChanel/29
+https://t.me/loznChanel/95
 # 愿景
 ## 界面完善
 这些事情没多大意义我已经不弄了
